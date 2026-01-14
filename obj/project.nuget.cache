@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7oJMV+Q388=",
+  "success": true,
+  "projectFilePath": "/mnt/meu_hd/C#ESTUDO/Projetos/SISTEMA DE HOSPEDAGEM/SISTEMA DE HOSPEDAGEM.csproj",
+  "expectedPackageFiles": [
+    "/home/porto/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.11/microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
