@@ -57,10 +57,46 @@ namespace SISTEMA_DE_HOSPEDAGEM.View
                 foreach (Hospede h in listaHospedes)
 
                 System.Console.WriteLine($"Nome: {h.Nome} | CPF: {h.CPF} ");
-             }
                 
-             
-            break;
+                break;
+             }
+            case "3":
+
+                {
+                System.Console.WriteLine("Digite o  CPF que Deseja Atualizar: ");
+                string cpfBusca = Console.ReadLine()!;
+
+
+                System.Console.WriteLine("----------Insira os novos Dados: ----------");
+
+                System.Console.WriteLine("\nNovo Nome: ");
+                string novoNome = Console.ReadLine()!;
+
+                System.Console.WriteLine("\nNova Profissão:");
+                string novaProfissao = Console.ReadLine()!;
+
+                System.Console.WriteLine("\nNova Nacionalidade:");
+                string novaNacionalidade = Console.ReadLine()!;
+                
+               
+                Hospede dadosNovos = new Hospede(novoNome,novaProfissao, novaNacionalidade, cpfBusca, ""); //*? OBJETO criado temporariamente
+
+                try
+                {
+                    hospedeServices.AtualizarHospede(cpfBusca, dadosNovos);
+                }
+                catch (System.Exception excpf)
+                {
+                    
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
+                    Console.WriteLine($"[AVISO]: {excpf.Message}");
+                    Console.ResetColor();
+                }
+
+                } 
+            break;    
+            
+
              case "0":
              EstaRodando = false;
              System.Console.WriteLine("Desligando....");

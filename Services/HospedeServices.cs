@@ -21,6 +21,27 @@ namespace SISTEMA_DE_HOSPEDAGEM.Services
             return hospedes;
         }
 
+        public void AtualizarHospede(string cpf, Hospede hospedeAtualizado) //*** metodo para atualizar o Hospede por cpf
+        {
+            var hospedeExistente = hospedes.FirstOrDefault(h => h.CPF == cpf);
+            //TODO FirstOrDefault basicamente pesquisa na coleçao ou lista o item especifico
+            //TODO e retorna o primeiro elemento que satifaz a condição que queremos 
+            //** h => h.CPF == cpf expressao lambda que define a condição de busca 
+
+            if (hospedeExistente != null)
+            {
+                hospedeExistente.Nome = hospedeAtualizado.Nome;
+                hospedeExistente.Profissao = hospedeAtualizado.Profissao;
+                hospedeExistente.RG = hospedeAtualizado.RG;
+            }
+
+            else
+            {
+                throw new Exception("Hóspede com este CPF não foi encontrado.");
+            }
+        }
+
+
         public void RemoverHospede(Hospede hospede)
         {
             hospedes.Remove(hospede);
