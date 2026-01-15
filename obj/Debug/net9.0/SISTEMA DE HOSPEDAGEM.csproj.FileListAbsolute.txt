@@ -1,0 +1,15 @@
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/bin/Debug/net9.0/SISTEMA DE HOSPEDAGEM
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/bin/Debug/net9.0/SISTEMA DE HOSPEDAGEM.deps.json
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/bin/Debug/net9.0/SISTEMA DE HOSPEDAGEM.runtimeconfig.json
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/bin/Debug/net9.0/SISTEMA DE HOSPEDAGEM.dll
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/bin/Debug/net9.0/SISTEMA DE HOSPEDAGEM.pdb
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/obj/Debug/net9.0/SISTEMA DE HOSPEDAGEM.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/obj/Debug/net9.0/SISTEMA DE HOSPEDAGEM.AssemblyInfoInputs.cache
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/obj/Debug/net9.0/SISTEMA DE HOSPEDAGEM.AssemblyInfo.cs
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/obj/Debug/net9.0/SISTEMA DE HOSPEDAGEM.csproj.CoreCompileInputs.cache
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/obj/Debug/net9.0/SISTEMA DE HOSPEDAGEM.sourcelink.json
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/obj/Debug/net9.0/SISTEMA DE HOSPEDAGEM.dll
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/obj/Debug/net9.0/refint/SISTEMA DE HOSPEDAGEM.dll
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/obj/Debug/net9.0/SISTEMA DE HOSPEDAGEM.pdb
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/obj/Debug/net9.0/SISTEMA DE HOSPEDAGEM.genruntimeconfig.cache
+/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/obj/Debug/net9.0/ref/SISTEMA DE HOSPEDAGEM.dll

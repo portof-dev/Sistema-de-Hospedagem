@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/meu_hd/C#ESTUDO/Projetos/SISTEMA DE HOSPEDAGEM/SISTEMA DE HOSPEDAGEM.csproj": {}
+    "/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/SISTEMA DE HOSPEDAGEM.csproj": {}
   },
   "projects": {
-    "/mnt/meu_hd/C#ESTUDO/Projetos/SISTEMA DE HOSPEDAGEM/SISTEMA DE HOSPEDAGEM.csproj": {
+    "/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/SISTEMA DE HOSPEDAGEM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/meu_hd/C#ESTUDO/Projetos/SISTEMA DE HOSPEDAGEM/SISTEMA DE HOSPEDAGEM.csproj",
+        "projectUniqueName": "/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/SISTEMA DE HOSPEDAGEM.csproj",
         "projectName": "SISTEMA DE HOSPEDAGEM",
-        "projectPath": "/mnt/meu_hd/C#ESTUDO/Projetos/SISTEMA DE HOSPEDAGEM/SISTEMA DE HOSPEDAGEM.csproj",
+        "projectPath": "/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/SISTEMA DE HOSPEDAGEM.csproj",
         "packagesPath": "/home/porto/.nuget/packages/",
-        "outputPath": "/mnt/meu_hd/C#ESTUDO/Projetos/SISTEMA DE HOSPEDAGEM/obj/",
+        "outputPath": "/mnt/meu_hd/C#ESTUDO/Projetos/Sistema-de-Hospedagem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/porto/.nuget/NuGet/NuGet.Config"
